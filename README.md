@@ -45,4 +45,4 @@ python analysis.py
 
 ---
 
-*Author: Anoushka Rathore | [LinkedIn](https://linkedin.com/in/anoushka-rathore-452b22259) | [Blog](https://whereshadowsrest.com)*
+*Author: Anoushka Rathore | [LinkedIn](https://linkedin.com/in/anoushka-rathore-452b22259) | [Blog](https://whereshadowsrest.wordpress.com)*
